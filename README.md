@@ -25,8 +25,6 @@ Run the migration scripts to create the necessary tables for books and authors.
 Configure the application.properties (or application.yml) to set up your MySQL connection:
 
 properties
-Sao chép
-Chỉnh sửa
 spring.datasource.url=jdbc:mysql://localhost:3306/book_management
 spring.datasource.username=root
 spring.datasource.password=your_password
